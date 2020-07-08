@@ -56,7 +56,7 @@ Foi ministrado pelo <a href="https://github.com/adrianhajdin">Adrian Hajdin</a> 
 
 <h2>📃Licença</h2>
 
-Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Ecoleta/blob/master/LICENSE.md">Licença</a> e saiba mais.
+Este projeto está sobre a Licença do MIT. Acesse a <a href="https://github.com/Nandosbx/Chat-App/blob/master/LICENSE.md">Licença</a> e saiba mais.
 
 ------------
 
