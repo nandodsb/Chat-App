@@ -49,7 +49,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 ------------
 
 <h2>🎓 Quem ministrou?</h2>
-Foi ministrado pelo <a href="https://github.com/adrianhajdin">Adrian Hajdin</a> do <a href="https://www.buymeacoffee.com/JSMastery">Javascript Mastery.
+Foi ministrado pelo <a href="https://github.com/adrianhajdin">Adrian Hajdin</a> do <a href="https://www.buymeacoffee.com/JSMastery">Javascript Mastery</a>.
 
 ------------
 
